@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Examen_MichelFloresDiaz_cshap/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.28.0"
+        },
+        "runtime": {
+          "Examen_MichelFloresDiaz_cshap.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.28.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen_MichelFloresDiaz_cshap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.28.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g4iZWBHQH5dObJQKcKXsol8yFJPIkXhVdn/8P726d4OmpHgQ9aYSwtTCWo+FUYHIkMS+haItgeOT6hilmLeHNw==",
+      "path": "selenium.webdriver/4.28.0",
+      "hashPath": "selenium.webdriver.4.28.0.nupkg.sha512"
+    }
+  }
+}

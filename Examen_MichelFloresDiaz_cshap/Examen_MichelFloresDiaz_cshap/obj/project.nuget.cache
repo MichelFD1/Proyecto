@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoGyDIO6cd4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michel\\source\\repos\\Examen_MichelFloresDiaz_cshap\\Examen_MichelFloresDiaz_cshap\\Examen_MichelFloresDiaz_cshap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michel\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}
